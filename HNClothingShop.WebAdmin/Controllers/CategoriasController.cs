@@ -11,7 +11,6 @@ namespace HNClothingShop.WebAdmin.Controllers
     {
         CategoriasBL _categoriasBL;
 
-
         public CategoriasController()
         {
             _categoriasBL = new CategoriasBL();
